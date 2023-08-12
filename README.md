@@ -16,7 +16,7 @@
 - Writes to [IndexedDb](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 - Group selection/manipulation & drag to sort/arrange
 - Dynamic and auto cached icons for [music](https://github.com/Borewit/music-metadata-browser), images, video & emulator states
-- Context Menus
+- Contexte Menus
   - Cut, Copy, Create shortcut, Delete, Rename
   - [Add file(s)](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications), [Map directory](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
   - Open with options/dialog, Open file/folder location, Open in new window, Open Terminal here
